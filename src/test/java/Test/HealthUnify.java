@@ -55,10 +55,10 @@ public class HealthUnify {
         Assert.assertEquals(text, "Your category is Starvation");
     }
 
-    @AfterClass
-    public void closeBrowser() {
-        driver.quit();
-    }
+//    @AfterClass
+//    public void closeBrowser() {
+//        driver.quit();
+//    }
 }
 
 
